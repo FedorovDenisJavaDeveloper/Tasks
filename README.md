@@ -1,6 +1,6 @@
 # Мое резюме и решенные задачи на Java!
 
-### Ссылка на резюме [resumeJavaDeveloper.md](resumeJavaDeveloper.md)
+### Ссылка на резюме [resumeJavaDeveloper](resumeJavaDeveloper.pdf)
 
 ### Задачи про:
 1. подсчет количества итераций при наполнении колб кислотой  **[Acid](acid)**
