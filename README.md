@@ -1,6 +1,6 @@
 # Мое резюме и решенные задачи на Java!
 
-### Ссылка на резюме [resumeJavaDeveloper](resume_Java_Developer_FedorovDV.pdf)
+<!-- ### Ссылка на резюме [resumeJavaDeveloper](resume_Java_Developer_FedorovDV.pdf) -->
 
 ### Задачи про:
 1. подсчет количества итераций при наполнении колб кислотой  **[Acid](acid)**
