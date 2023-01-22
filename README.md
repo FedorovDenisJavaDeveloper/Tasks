@@ -1,18 +1,18 @@
 # Резюме и решенные задачи на Java!
-### Ссылка на [Resume Java Developer Denis Fedorov](resume_Java_Developer_FedorovDV.pdf)
+ **[Ссылка на резюме Java Developer Denis Fedorov](resume_Java_Developer_FedorovDV.pdf)**<br>
 ## Курсовые работы:
-1. "Сервис перевода денег между двумя картами" <br> 
+1. **"Сервис перевода денег между двумя картами"** <br> 
 [Ссылка на репозиторий](https://github.com/FedorovDenisJavaDeveloper/Spring-Send-Money-From-Cards)
-2. "Сетевой чат" <br>
+2. **"Сетевой чат"** <br>
 [Ссылка на репозиторий](https://github.com/FedorovDenisJavaDeveloper/Network-Chat)
 
 ## Домашние задания для "Нетология"
-1. ""
-2. 
-2. 
+1.
+1. [Работа с File, Directory, сериализация](https://github.com/FedorovDenisJavaDeveloper/File-IO-Buffer-Zip-HW-1.3/tree/main/src/installing)
+2. [Stream API](https://github.com/FedorovDenisJavaDeveloper/Stream-API-HW-1.2/tree/main/populationCensusTask)
 
 ## Задачи про:
-1. подсчет количества итераций <br> при наполнении колб кислотой  **[Acid](acid)**
+1. подсчет количества итераций при наполнении колб кислотой  **[Acid](acid)**
 
 1. словарь: поиск возможности вхождения одних слов в другие  **[Dictionary](dictionary)**
 
