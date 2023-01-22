@@ -1,8 +1,14 @@
-# Мое резюме и решенные задачи на Java!
+# Резюме и решенные задачи на Java!
+### Ссылка на [Resume Java Developer Denis Fedorov](resume_Java_Developer_FedorovDV.pdf)
+## Курсовые работы:
+1. ""
 
-<!-- ### Ссылка на резюме [resumeJavaDeveloper](resume_Java_Developer_FedorovDV.pdf) -->
+## Домашние задания для "Нетология"
+1. ""
+2. 
+2. 
 
-### Задачи про:
+## Задачи про:
 1. подсчет количества итераций <br> при наполнении колб кислотой  **[Acid](acid)**
 
 1. словарь: поиск возможности вхождения одних слов в другие  **[Dictionary](dictionary)**
