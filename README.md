@@ -1,7 +1,10 @@
 # Резюме и решенные задачи на Java!
 ### Ссылка на [Resume Java Developer Denis Fedorov](resume_Java_Developer_FedorovDV.pdf)
 ## Курсовые работы:
-1. ""
+1. "Сервис перевода денег между двумя картами" <br> 
+[Ссылка на репозиторий](https://github.com/FedorovDenisJavaDeveloper/Spring-Send-Money-From-Cards)
+2. "Сетевой чат" <br>
+[Ссылка на репозиторий](https://github.com/FedorovDenisJavaDeveloper/Network-Chat)
 
 ## Домашние задания для "Нетология"
 1. ""
